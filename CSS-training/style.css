@@ -1,0 +1,20 @@
+p {
+    color: red;
+    background-color: green;
+    font-size: 40px;
+}
+
+#first {
+    color: blue;
+    background-color: brown;
+}
+
+div {
+    color: aqua;
+    background-color: blueviolet;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    text-decoration: underline;
+
+}
