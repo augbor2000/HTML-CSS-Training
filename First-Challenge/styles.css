@@ -1,0 +1,52 @@
+input {
+    display: block;
+    margin: 0.5em 0;
+    width: 100%;
+    max-width: 90%;
+    min-width: 1em;
+
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+label {
+    margin: 1em 10%;
+    display: block;
+    color: aliceblue;
+}
+
+fieldset {
+    width: 70%;
+    margin: auto;
+    max-width: 800px;
+    background-color: rgb(112, 3, 175);
+}
+
+.inline {
+    display: inline;
+    width: auto;
+    margin-right: 0.5em;
+}
+
+body {
+    background-color: rgb(140, 73, 248);
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffff
+}
+
+input[type="submit"] {
+    background-color: rgb(102, 102, 102);
+    border-radius: 20px;
+    max-width: 150px;
+    margin: auto;
+}
+
+.comments {
+    font-size: larger;
+}
